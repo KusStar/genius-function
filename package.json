@@ -1,0 +1,16 @@
+{
+  "name": "genius-function",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "author": "KusStar",
+  "license": "MIT",
+  "devDependencies": {
+    "@vercel/node": "1.8.4"
+  },
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
